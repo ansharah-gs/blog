@@ -1,2 +1,2 @@
 # blog
-this is my first git repository
+Ansharah here, i am making thsis demo repository to lean more about github 
